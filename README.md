@@ -7,16 +7,16 @@
 
 # Data Understanding
   The dataset has information on the following 10 aspects of the 22 provinces in Argentina
-  1.gdp
-  2.Illiteracy Index
-  3.Poverty Index
-  4.Deficient-infrastructre Index
-  5.School_dropout index
-  6.Healthcare index
-  7.Birth mortality rate
-  8.population
-  9.Movie theatres per capita
-  10.doctors per capita
+  1. gdp
+  2. Illiteracy Index
+  3. Poverty Index
+  4. Deficient-infrastructre Index
+  5. School_dropout index
+  6. Healthcare index
+  7. Birth mortality rate
+  8. population
+  9. Movie theatres per capita
+  10. doctors per capita
 
 # Flow
   1. Apply Principal Component Analysis to reduce the dimensionality of the dataset and extract maximum variation of the data in minimum      number of dimensions (Principal Components)
