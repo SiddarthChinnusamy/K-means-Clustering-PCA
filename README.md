@@ -19,21 +19,21 @@ The dataset has information on the following 10 aspects of the 22 provinces in A
   10.doctors per capita
 
 # Flow
-1. Apply Principal Component Analysis to reduce the dimensionality of the dataset and extract maximum variation of the data in minimum number of dimensions (Principal Components)
-2. Cluster the 22 provinces by applying k-means algorithm on the dataset transformed to co-ordinates in the Principal components
-3. Choose one province from each of the clusters for pilot implementation of the program
+  1. Apply Principal Component Analysis to reduce the dimensionality of the dataset and extract maximum variation of the data in minimum      number of dimensions (Principal Components)
+  2. Cluster the 22 provinces by applying k-means algorithm on the dataset transformed to co-ordinates in the Principal components
+  3. Choose one province from each of the clusters for pilot implementation of the program
 
 Additional Exploratory analysis
-1. After clustering, the datapoints of various clusters can be compared with individual fields like Poverty Index to check how the clusters vary with respect to a particular metric
+  1. After clustering, the datapoints of various clusters can be compared with individual fields like Poverty Index to check how the          clusters vary with respect to a particular metric
 
 # Results
-% of variance explained by the 2 principal components = 63.5% (PCA1 = 45.3%, PCA2=18.2%)
-Number of clusters = 4
-Number of provinces in each cluster ;
-Cluster 1 = 1
-Cluster 2 = 7
-Cluster 3 = 6
-Cluster 4 = 8
+  -% of variance explained by the 2 principal components = 63.5% (PCA1 = 45.3%, PCA2=18.2%)
+  -Number of clusters = 4
+  -Number of provinces in each cluster ;
+  -Cluster 1 = 1
+  -Cluster 2 = 7
+  -Cluster 3 = 6
+  -Cluster 4 = 8
 
 
 
