@@ -7,7 +7,7 @@
 
 # Data Understanding
 The dataset has information on the following 10 aspects of the 22 provinces in Argentina
-  1.gdp
+  -1.gdp
   2.Illiteracy Index
   3.Poverty Index
   4.Deficient-infrastructre Index
@@ -27,13 +27,13 @@ Additional Exploratory analysis
   1. After clustering, the datapoints of various clusters can be compared with individual fields like Poverty Index to check how the          clusters vary with respect to a particular metric
 
 # Results
-  -% of variance explained by the 2 principal components = 63.5% (PCA1 = 45.3%, PCA2=18.2%);
-  -Number of clusters = 4;
-  -Number of provinces in each cluster ;
-  -Cluster 1 = 1;
-  -Cluster 2 = 7;
-  -Cluster 3 = 6;
-  -Cluster 4 = 8;
+  1. % of variance explained by the 2 principal components = 63.5% (PCA1 = 45.3%, PCA2=18.2%);
+  2. Number of clusters = 4;
+  3. Number of provinces in each cluster ;
+  4. Cluster 1 = 1;
+  5. Cluster 2 = 7;
+  6. Cluster 3 = 6;
+  7. Cluster 4 = 8;
 
 
 
