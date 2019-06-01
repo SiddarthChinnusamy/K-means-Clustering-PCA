@@ -1,9 +1,9 @@
 # Objective
-The objective of this exercise is to build a model that clusters the 22 provinces in Argentina into groups
-so that one province from each of the group can be chosen for the pilot implementation of an educational program.
-The reason being to ensure that the provinces chosen for pilot implementation are representative of the entire country, 
-so that the results observed from the pilot implementation can be trusted to be reliable once the program is scaled up to the entire nation.
-This is a guided project in Datacamp
+  The objective of this exercise is to build a model that clusters the 22 provinces in Argentina into groups
+  so that one province from each of the group can be chosen for the pilot implementation of an educational program.
+  The reason being to ensure that the provinces chosen for pilot implementation are representative of the entire country, 
+  so that the results observed from the pilot implementation can be trusted to be reliable once the program is scaled up to the entire     nation.
+  This is a guided project in Datacamp
 
 # Data Understanding
 The dataset has information on the following 10 aspects of the 22 provinces in Argentina
@@ -27,13 +27,13 @@ Additional Exploratory analysis
   1. After clustering, the datapoints of various clusters can be compared with individual fields like Poverty Index to check how the          clusters vary with respect to a particular metric
 
 # Results
-  -% of variance explained by the 2 principal components = 63.5% (PCA1 = 45.3%, PCA2=18.2%)
-  -Number of clusters = 4
+  -% of variance explained by the 2 principal components = 63.5% (PCA1 = 45.3%, PCA2=18.2%);
+  -Number of clusters = 4;
   -Number of provinces in each cluster ;
-  -Cluster 1 = 1
-  -Cluster 2 = 7
-  -Cluster 3 = 6
-  -Cluster 4 = 8
+  -Cluster 1 = 1;
+  -Cluster 2 = 7;
+  -Cluster 3 = 6;
+  -Cluster 4 = 8;
 
 
 
