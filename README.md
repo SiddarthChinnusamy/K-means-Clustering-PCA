@@ -6,8 +6,8 @@
   This is a guided project in Datacamp
 
 # Data Understanding
-The dataset has information on the following 10 aspects of the 22 provinces in Argentina
-  -1.gdp
+  The dataset has information on the following 10 aspects of the 22 provinces in Argentina
+  1.gdp
   2.Illiteracy Index
   3.Poverty Index
   4.Deficient-infrastructre Index
